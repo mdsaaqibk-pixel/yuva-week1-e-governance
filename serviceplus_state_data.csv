@@ -1,0 +1,5 @@
+State,Services_Launched,Applications_Total,Delivered,Rejected,Underprocess,Snapshot_Date,Delivered_Pct_of_Total,Rejected_Pct_of_Total,Pending_Pct_of_Total,Status_Sum_Check
+Andaman and Nicobar Islands,37,71528,15243,10891,45394,2026-10-19,21.31,15.23,63.46,0
+Andhra Pradesh,5,782237,327165,343163,111909,2026-10-19,41.82,43.87,14.31,0
+Arunachal Pradesh,87,277011,246821,15247,14943,2026-10-19,89.1,5.5,5.39,0
+Assam,463,3741327,3114831,316043,310453,2026-10-19,83.25,8.45,8.3,0
